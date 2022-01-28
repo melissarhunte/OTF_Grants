@@ -1,5 +1,5 @@
 # OTF_Grants
-Automating Ontario Trillium Foundation's Grant applications into specific data-informed funding streams
+# Automating Ontario Trillium Foundation's Grant applications into specific data-informed funding streams
 
 Melissa Hunte (melissar.hunte@mail.utoronto.ca) & Lorena Almaraz De La Garza (l.almaraz@mail.utoronto.ca) 
 
